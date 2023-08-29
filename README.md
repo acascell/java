@@ -1,2 +1,2 @@
 # java
-java based code including ideas, drafts, experiment etc..
+java based code including ideas, drafts, experiments etc..
