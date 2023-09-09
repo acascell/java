@@ -1,4 +1,4 @@
-package guidemo;
+package java.gui-paint;
 
 import java.applet.AudioClip;
 import java.awt.*;
