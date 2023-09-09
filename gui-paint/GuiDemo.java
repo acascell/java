@@ -1,4 +1,4 @@
-package java.guidemo;
+package java.gui-paint;
 
 import java.awt.*;
 import java.awt.event.*;
